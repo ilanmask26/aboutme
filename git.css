@@ -1,0 +1,81 @@
+.ortala{
+    text-align:center;
+    margin-left:auto;margin-right:auto;
+}
+.yazi_boyutu{
+    width: 50px;
+    padding-bottom: 0cqmax;
+}
+.kirmizi_renk{
+    color: red;
+}
+h1{
+    font-size: 30px;
+}
+.gri{
+    color: darkgray;
+}
+.KOYU_SIYAH{
+    color: black;
+}
+.buyuk_boy{
+    font-size: 60px;
+}
+.italic{
+    font-style: italic;
+}
+.yazi_orta{
+    text-align:center;
+    
+}
+.bosluk{
+    margin-top: 0px;
+}
+.conteyner{
+
+    padding: 10px;
+    background-color: rgb(34, 27, 27);
+    margin-top: 200px;
+    margin-left: 50px;
+
+    
+}
+
+.logo{
+    height: 100px;
+    width: 250px;
+    margin-top: 200px;
+    margin-left: 600px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    
+    background-color: green;
+}
+.search{
+    
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin-right: 300px;
+    margin-left: 500px;
+    margin-bottom: 5px;
+    width: 500px;
+    
+
+}
+.button1{
+    margin-top: 20px;
+   margin-left: 550px;
+    width: 80px;
+    height: 20px;
+
+
+
+}
+.button2{
+    
+    margin-left: 50px;
+    width: 200px;
+    height: 20px;
+    
+}
